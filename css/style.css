@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.images{
+    margin-left: 20px;
+    height: 45px;
+    width: 70%;
+}
+.nav-link{
+    color: white!important;
+    margin-right: 60px;
+}
+.try{
+    height: 350px;
+    width:100%;
+}
+.item{
+    color: blue;
+    margin-left: 15px;  
+    margin-top: 10%;
+    font-size: 35px;
+}
+.main{
+    margin-top: 10px;
+}
+.main h1{
+     text-align:center ;
+     font-weight: 800;
+     font-size: 70px;
+     color: black       ;
+}
+.main p{
+    margin-top: 1.5%;
+    text-align: center;
+    font-weight: 500;
+    color: lightslategray;
+    font-size: 20px;
+}
+.box{
+    height: 560px;
+    width: 100%;
+    margin-bottom: 2%;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.site h1{
+    font-size: 60px;
+    font-weight: 900;
+    color: black;
+    margin-top: 20%;
+    margin-left: 25px;
+}
+.site p{
+    margin-top: 2%;
+    margin-left: 25px;
+    color: lightslategray;
+}
+.btn {
+    margin-left: 50px;
+    width: 100%;
+}
+.some img{
+    margin-top: 10%;
+    width: auto;
+    height: auto;
+}
+.sweep{
+    margin-top: 5%;
+}
+.sweep h1{
+        color: black;
+        font-weight: 700;
+        text-align: center;
+        font-size: 65px;
+}
+.sweep p{
+    color: lightslategray;
+    text-align: center;
+    margin-top: 1.5%;
+    font-size: 20px;
+}
+.video img{
+    width:100%;
+}
+.dry{
+    margin-top: 25px;
+}
+.dry img{
+   width: 100%; 
+}
+.btn-group{
+    width: 20%;
+    margin-left: 39%;
+    margin-top: 20px;
+}
+.btn-group a:hover{
+color: blue;
+background-color: white;
+}
+.zoo{
+    margin-top: 25px;
+}
+.zoo h1{
+    color: black;
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+}
+.zoo p{
+    margin-top: 5px;
+    color: lightslategray;
+    font-size: 27px;
+    text-align: center;
+}
+.mobile{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+.we h1{
+font-weight: 800;
+color: black;
+text-align: center;
+}
+.we p{
+    color: black;
+    text-align: center;  
+}
+.di {
+margin-left: 20%;
+}
+.tw{
+    margin-top: 20px;
+}
+.tw img{
+    width: 100%;
+}
+.qw{
+    margin-top: 25px;
+}
+.qw h1{
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+    color: black;
+}
+.qw p{
+    text-align: center;
+    color: lightslategray;
+    font-size: 25px;
+}
+.boxy{
+    height: 500px;
+    width: 100%;
+    margin-bottom: 2%;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.rate img{
+height: 400px;
+width: 100%;
+margin-top: 20px;
+}
+.rate h4{
+    margin-left: 2%;
+    font-weight: 800;
+    color: black;
+}
+.rate p{
+    margin-left: 20px;
+    color: lightslategray;
+    font-weight: 500;
+
+}
+.content{
+    background-image:url(../images/20.jpg);
+    height:500px;
+    border-radius: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 25px    ;
+}
+.content h1{
+    color: white;
+    font-size: 70px;
+    padding-top: 12%;
+    margin-left: 2%;
+    font-weight: 800;
+}
+.content h5{
+    color: white;
+    font-size: 20px;
+    margin-left: 2%;
+    font-weight: 700;
+}
+.content button{
+    background-color: blue;
+    border-radius: 30px;
+    width: 15%;
+    margin-top: 6%;
+    margin-left:25px;
+}   
+.content p{
+    color: white;
+}
+.difference{
+    background-color:whitesmoke;
+    background-attachment: fixed;
+    margin-top: 5%;
+    height: 600px;
+    width: 100%;
+}
+.difference h1{
+    color: black   ;
+    font-size: 70px;
+    font-weight: 800;
+    padding-top: 6%;
+    text-align: center;
+}
+.difference h4{
+    margin-top: 2%;
+    color: lightslategray;
+    font-size: 20px;
+    text-align: center;
+}
+.sty{
+    border-radius: 30px;   
+}
+.cl{
+    background-image: url(../images/22.png);
+    height: 480px;
+    width: 100%;
+    margin-top: 5%;
+}
+.cl h1{
+    color: white;
+    font-weight: 800;
+    font-size: 70px;
+    text-align: left;
+    margin-left: 10px;
+}
+.cl h4{
+    color: whitesmoke;
+    text-align: left;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.cl button{
+    background-color: blue;
+    border-radius: 30px;
+    width: 15%;
+    margin-left:25px;
+}
+.code{
+    margin-top: 5%;
+    background-color: whitesmoke;
+    height: 630px;  
+    width: 100%;
+}
+.code img{
+    margin-top: 10%;
+    width: 4%;
+    height: 40px;
+    float: left;
+    margin-left: 40%;
+    letter-spacing: -1.44px;
+    line-height: 1.0833333333;
+}
+.code h6{
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 45%;
+    padding-top:10%;
+}
+.code h1{
+    color: black;
+        font-weight: 700;
+        text-align: center;
+        font-size: 65px;       
+}
+.code p{
+    text-align: center;
+    color: lightslategray;
+    font-weight: 500;
+}
+.se img{
+    border-radius: 30px;
+    height: 150px;  
+    width: 15%;
+    margin-top: 5px;
+}
+.time{
+    background-color: blue;
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+}
+.time h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    color: white;
+    padding-top: 4%;
+}
+.time h4{
+    text-align: center;
+    color: lightgrey;   
+}
+.item2{
+    width: 20%;
+    height: 10px;
+    float: left;
+    border-radius: 20px ;
+    border:2px solid white;
+    margin-left: 5%;
+    padding-top: 5%;
+    margin-top: 5%;
+}
+.tin{
+    margin-right: 20px;
+}
+.kite{
+    color: white;
+    margin-top: -22%;
+    text-align: center;
+    font-size: 25px;
+}
+.crow{
+    color: blue;
+    font-size: 30   px;
+}
